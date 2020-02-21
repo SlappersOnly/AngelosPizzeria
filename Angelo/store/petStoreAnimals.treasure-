@@ -1,0 +1,44 @@
+{
+  "code": "staxel.treasure.storeShelf.petStoreAnimals",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.PetTotem",
+          "tile": "staxel.tileObject.pets.RabbitHouse",
+		  "petType": "staxel.pets.Rabbit"
+        }
+      ],
+      "globalGate": {
+        "global": "sellBunny"
+      }
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.PetTotem",
+          "tile": "staxel.tileObject.pets.CatHouse",
+		  "petType": "staxel.pets.Cat"
+        }
+      ],
+      "globalGate": {
+        "global": "sellPets"
+      }
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.PetTotem",
+          "tile": "staxel.tileObject.pets.DogHouse",
+		  "petType": "staxel.pets.Dog"
+        }
+      ],
+      "globalGate": {
+        "global": "sellPets"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "clock",
+    "office",
+    "furniture",
+    "misc",
+    "decoration",
+    "wall",
+    "brown"
+  ],
+  "clock": {
+    "clockAlt": 0,
+    "handCentre": {
+      "x": 0.46875,
+      "y": 0.59375,
+      "z": 0.5
+    },
+    "hoursHandAlt": 1,
+    "middayChimeSound": "staxel.sound.sfx.clock.DeskClockChime",
+    "minutesHandAlt": 2,
+    "tick": true,
+    "tickSound": "staxel.sound.sfx.clock.DeskClockTick"
+  },
+  "code": "MarkGrant.AngelosPizzeria.tileObject.PizzaWallClock",
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 120,
+    "value": 200
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "tileStateKind": "staxel.tileState.Clock",
+  "useCustomRendering": true,
+  "placementPreviewVariant": 3,
+  "iconVariant": 3,
+  "handCentre" : {"x":1.5, "y": 1.5, "z": 0},
+  "variants": [
+    "mods/AngelosPizzeria/tileObjects/PizzaWallClock.qb?size={20,19,16}?offset={0,0,0}",
+    "mods/AngelosPizzeria/tileObjects/PizzaWallClock.qb?size={20,19,16}?offset={20,0,0}",
+    "mods/AngelosPizzeria/tileObjects/PizzaWallClock.qb?size={20,19,16}?offset={40,0,0}",
+    "mods/AngelosPizzeria/tileObjects/PizzaWallClock.qb?size={20,19,16}?offset={60,0,0}"
+  ],
+  "voxels": "mods/AngelosPizzeria/tileObjects/PizzaWallClock.qb"
+}

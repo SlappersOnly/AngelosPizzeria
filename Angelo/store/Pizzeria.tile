@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/totems/totemBase.config",
+  "attachToBelow": true,
+  "categories": [
+    "misc",
+    "totem",
+    "sign"
+  ],
+  "code": "MarkGrant.AngelosPizzeria.totem.PizzeriaSign",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 0,
+    "value": 1000
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "totem": {
+    "code": "MarkGrant.AngelosPizzeria.totem.Pizzeria"
+  },
+  "questItem" :{},
+  "voxels": "mods/AngelosPizzeria/Angelo/store/PizzeriaSign.qb"
+}

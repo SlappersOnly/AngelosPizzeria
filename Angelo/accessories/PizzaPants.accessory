@@ -1,0 +1,25 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale",
+    "staxel.bodyType.HumanoidMale"
+  ],
+  "code": "MarkGrant.AngelosPizzeria.accessories.pants.jeans",
+  "kind": "Trousers",
+  "model": "mods/AngelosPizzeria/Angelo/accessories/PizzaPants.qb",
+  "paletteGroups": [
+    "staxel.palette.group.DyeColours"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 150,
+    "value": 250
+  },
+  "searchable": true,
+  "starter": true,
+  "subcategory": "shorts",
+  "categories": [
+    "basic",
+    "chef"
+  ]
+}

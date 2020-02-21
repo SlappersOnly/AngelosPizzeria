@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "categories": [
+    "clock"
+  ],
+  "clock": {
+    "clockAlt": 0,
+    "handCentre": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 0.5
+    },
+    "hoursHandAlt": 1,
+    "middayChimeSound": "staxel.sound.sfx.clock.ClockTowerChime",
+    "minutesHandAlt": 2
+  },
+  "code": "MarkGrant.AngelosPizzeria.tileObject.HawaiianClockTowerFace",
+  "compound": {
+    "size": {
+      "x": 4,
+      "y": 4,
+      "z": 1
+    },
+    "specification": "CCCCCCCCCCCCXCCC"
+  },
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "tileStateKind": "staxel.tileState.Clock",
+  "useCustomRendering": true,
+  "placementPreviewVariant": 3,
+  "iconVariant": 3,
+  "variants": [
+    "mods/AngelosPizzeria/tileObjects/HawaiianClockTowerFace.qb?size={64,64,16}?offset={0,0,0}",
+    "mods/AngelosPizzeria/tileObjects/HawaiianClockTowerFace.qb?size={64,64,16}?offset={64,0,0}",
+    "mods/AngelosPizzeria/tileObjects/HawaiianClockTowerFace.qb?size={64,64,16}?offset={128,0,0}",
+    "mods/AngelosPizzeria/tileObjects/HawaiianClockTowerFace.qb?size={64,64,16}?offset={192,0,0}"
+  ],
+  "voxels": "mods/AngelosPizzeria/tileObjects/HawaiianClockTowerFace.qb"
+}

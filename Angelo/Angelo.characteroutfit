@@ -1,0 +1,31 @@
+{
+  "code": "MarkGrant.AngelosPizzeria.outfit.Angelo",
+  "outfit": {
+    "0": {
+      "code": "",
+      "kind": "staxel.item.Clothing",
+      "accessory": "MarkGrant.AngelosPizzeria.accessories.fullBodyOutfits.Angelo",
+      "palette": ""
+    },
+    "1": {
+      "kind": "staxel.item.Null",
+      "code": "",
+      "accessory": ""
+    },
+    "2": {
+      "kind": "staxel.item.Null",
+      "code": "",
+      "accessory": ""
+    },
+    "3": {
+      "kind": "staxel.item.Null",
+      "code": "",
+      "accessory": ""
+    },
+    "4": {
+      "kind": "staxel.item.Null",
+      "code": "",
+      "accessory": ""
+    }
+  }
+}

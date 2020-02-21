@@ -1,0 +1,23 @@
+{
+  "code": "MarkGrant.AngelosPizzeria.design.Angelo",
+  "design": { 
+    "Species": "staxel.species.Human",
+    "Gender": "male",   
+    "LeftHanded": false,
+    "Personality": "staxel.personality.standard",
+    "_version": 3,
+    "revision": 1,
+    "Model": {
+      "model": "staxel/characters/species/human/Human_Male.qb",
+      "palette": "staxel.palette.skin.tropical"
+    },    
+    "Hair": {
+      "model": "staxel.accessories.devavatars.sledra.SledraHair",
+      "palette": ""
+    },
+    "Eyes": {
+      "model": "staxel.accessories.eyes.small",
+      "palette": "staxel.palette.orange"
+    }
+  }
+}

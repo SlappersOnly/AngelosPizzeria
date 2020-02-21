@@ -1,0 +1,27 @@
+title: Start
+tags: 
+colorID: 0
+position: 541,258
+---
+<<lockPlayerInConversation>>
+<<typewriterMode on>>
+<<if $via_quest is 0>>
+Oh! Hello. Something something.... words. #line:10000100
+My name is ^c:1486b0;$name;^c:pop; by the way! #line:10000200
+I'm a human being. #line:10000300
+How about you? #line:10000400
+You should build me a pizzeria some time because I'm too lazy to do it myself. #line:10000500
+<<else>>
+<<writeDialogue on MarkGrant.AngelosPizzeria.totem.AngeloHome.quest>>
+Ciao! You must be the new farmer that recently moved to Staxel. #line:10000600
+That explains why you got roped into building a house for a complete stranger. #line:10000700
+Here, have this pizza themed wall clock as payment for building my home for me. #line:10000800
+<<giveItemToPlayer tilePlacer MarkGrant.AngelosPizzeria.tileObject.PizzaWallClock>>
+Feel free to stop by any time and start the construction of my pizzeria! #line:10000900
+<<writeDialogue off>>
+<<completeMainQuest MarkGrant.AngelosPizzeria.totem.AngeloHome.quest>>
+<<endif>>
+<<set $said_hi += 1>>
+<<typewriterMode off True True>>
+<<releasePlayerFromConversation>>
+===

@@ -1,0 +1,20 @@
+{
+  "code": "MarkGrant.AngelosPizzeria.character.Angelo",
+  "name": "Angelo",
+  "hideFromMap": false,
+  "ignoreTavern": false,
+  "ignoreTotemClaimed": false,
+  "personality": "MarkGrant.AngelosPizzeria.Personality.Angelo",
+  "job": "MarkGrant.AngelosPizzeria.job.Angelo",
+  "initialDesign": "staxel.village.design.VillagerMale",
+  "initialOutfit": "MarkGrant.AngelosPizzeria.outfit.Angelo",
+  "homeTotem": "MarkGrant.AngelosPizzeria.totem.AngeloHome",
+  //"introductionDialogue": "MarkGrant.AngelosPizzeria.dialogue.intro.Angelo",
+  //"regards": {},
+  //"uniqueDialogue": {},
+  //"requiredReputationQuests": {},
+  //"giftDialogue": {},
+  //"roomieDialogue": [],  
+  "arrivalMail": "MarkGrant.AngelosPizzeria.mail.AngeloArrival",
+  "polaroid": "staxel/village/character/polaroids/RosemaryPolaroid.png"
+}

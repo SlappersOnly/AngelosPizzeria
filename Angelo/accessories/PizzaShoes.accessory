@@ -1,0 +1,25 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "MarkGrant.AngelosPizzeria.accessories.shoes.PizzaShoes",
+  "kind": "Shoes",
+  "model": "mods/AngelosPizzeria/Angelo/accessories/PizzaShoes.qb",
+  "paletteGroups": [
+    "staxel.palette.group.DyeColours"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 180,
+    "value": 290
+  },
+  "searchable": true,
+  "starter": true,
+  "subcategory": "trainers",
+  "categories": [
+    "basic",
+    "chef"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/mail/ItemMail.config",
+  "code": "MarkGrant.AngelosPizzeria.mail.AngeloArrival",
+  "sender": "staxel.villager.Angelo.name",
+  "subject": "MarkGrant.AngelosPizzeria.mail.AngeloArrival.subject",
+  "body": "MarkGrant.AngelosPizzeria.mail.AngeloArrival",
+  //"icon": "mods/Deco Plus/ChinNewYear/Present/LetterIconPresent.png",
+  //"readIcon": "mods/Deco Plus/ChinNewYear/Present/LetterIconOpenPresent.png",
+  //"postDatedMail": {
+    //"startDay": 4,
+    //"startMonth": 2,
+    //"startYear": 2019,
+    //"endDay": 19,
+    //"endMonth": 2,
+    //"endYear": 2019,
+    //"repeatYearly": false
+  //},
+  "itemMail": {
+    "claimedIcon": "staxel/ui/image/Mail/LetterIconOpen.png",
+    "items": [
+      {
+        "code": "staxel.item.currency.SilverPetalCoin",
+        "quantity": 1
+      }
+    ]
+  }
+}

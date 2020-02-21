@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "MarkGrant.AngelosPizzeria.accessories.fullBodyOutfits.Angelo",
+  "kind": "Shirt",
+  "model": "mods/AngelosPizzeria/Angelo/accessories/AngeloFullBodyOutfit.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "MarkGrant.AngelosPizzeria.Personality.Angelo",
+  "canGiveQuests": false,
+  "canLeaveTown": false,
+  "canOverrideBehaviour": false,
+  "idleScript": "staxel.script.IdleNpcScript",
+  //"dialoguePools": ["MarkGrant.AngelosPizzeria.DialoguePool.Angelo"],
+  //"primaryDialogue": "MarkGrant.AngelosPizzeria.Dialogue.Angelo",
+  //"theftDialoguePools": ["MarkGrant.AngelosPizzeria.dialoguePool.AngeloTheft"],
+  //"typicalRegards": [],
+  "suppressGeneralDialogue": false
+}

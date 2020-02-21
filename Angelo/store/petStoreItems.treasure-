@@ -1,0 +1,77 @@
+{
+  "code": "staxel.treasure.storeShelf.petStoreItems",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.petShop.PetShopAccessories",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.petShop.PetMedicine",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.petShop.PetshopDisplay",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.petShop.PetshopPoster",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.shop.PetshopShelfMiddle",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.shop.PetshopShelfLeft",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.shop.PetshopShelfRight",
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.petShop.CatTree",
+        },
+      ]
+    },
+  ]
+}
